@@ -9,3 +9,6 @@ Mi interés por la ingeniería de sistemas nació a raíz de mi pasión por los 
 
 ## Interés en la materia de Ingeniería de Software
 Escribir código es solo una parte del desarrollo. Me interesa esta asignatura para aprender las metodologías, la arquitectura y las buenas prácticas necesarias para planificar, diseñar y gestionar proyectos de software con estándares profesionales.
+
+## Expectativas con la materia
+Me gustaria poder al final del semestre decir con mas seguridad que conozco de software 
